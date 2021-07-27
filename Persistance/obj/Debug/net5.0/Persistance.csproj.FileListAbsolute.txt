@@ -1,0 +1,15 @@
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/bin/Debug/net5.0/Persistance.deps.json
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/bin/Debug/net5.0/Persistance.dll
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/bin/Debug/net5.0/ref/Persistance.dll
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/bin/Debug/net5.0/Persistance.pdb
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/bin/Debug/net5.0/Domain.dll
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/bin/Debug/net5.0/Domain.pdb
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.csproj.AssemblyReference.cache
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.AssemblyInfoInputs.cache
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.AssemblyInfo.cs
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.csproj.CoreCompileInputs.cache
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.csproj.CopyComplete
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.dll
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/ref/Persistance.dll
+/Users/lakelwin.pereira/Documents/GitHub/Reactivities/Persistance/obj/Debug/net5.0/Persistance.pdb
